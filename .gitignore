@@ -1,0 +1,6 @@
+Share.hide
+.DS_Store
+*.md~
+*.tex~
+Makefile~
+*~
